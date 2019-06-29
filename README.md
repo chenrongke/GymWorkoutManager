@@ -40,6 +40,6 @@ Note: this function may develop on future version, since we cant solve the serve
 
 
 # If you have other questions, please contact us.
-mail:keiajf180@gmail.com
+e-mail:keiajf180@gmail.com
 
 phone:+44 8446673023
