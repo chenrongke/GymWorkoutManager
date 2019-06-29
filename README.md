@@ -32,11 +32,11 @@ Self Challenge
 Note: this function may develop on future version, since we cant solve the server issue atm.
 ¯\_(ツ)_/¯
 
-![image](https://github.com/chenrongke/Nokun/blob/master/180.png)
-![image](https://github.com/chenrongke/Nokun/blob/master/180.png)
-![image](https://github.com/chenrongke/Nokun/blob/master/180.png)
-![image](https://github.com/chenrongke/Nokun/blob/master/180.png)
-![image](https://github.com/chenrongke/Nokun/blob/master/180.png)
+![image](https://github.com/chenrongke/GymWorkoutManager/blob/master/6-1.png)
+![image](https://github.com/chenrongke/GymWorkoutManager/blob/master/6-2.png)
+![image](https://github.com/chenrongke/GymWorkoutManager/blob/master/6-3.png)
+![image](https://github.com/chenrongke/GymWorkoutManager/blob/master/6-4.png)
+![image](https://github.com/chenrongke/GymWorkoutManager/blob/master/6-5.png)
 
 
 # If you have other questions, please contact us.
