@@ -1,4 +1,4 @@
-![image](https://github.com/chenrongke/Nokun/blob/master/180.png)
+![image](https://github.com/chenrongke/GymWorkoutManager/blob/master/icon-60%402x.png)
 
 # GymWorkoutManager
 
