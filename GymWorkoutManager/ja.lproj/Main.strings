@@ -1,0 +1,189 @@
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "3jh-fD-MdM"; */
+"3jh-fD-MdM.normalTitle" = ">";
+
+/* Class = "UIButton"; normalTitle = "BMI"; ObjectID = "5TW-yM-SJw"; */
+"5TW-yM-SJw.normalTitle" = "BMI";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "7Yy-ko-1gb"; */
+"7Yy-ko-1gb.normalTitle" = "<";
+
+/* Class = "UIButton"; normalTitle = " Set Time"; ObjectID = "7i3-hH-bDh"; */
+"7i3-hH-bDh.normalTitle" = " Set Time";
+
+/* Class = "UITextField"; placeholder = "Body weights (KG)"; ObjectID = "7vL-WR-hd9"; */
+"7vL-WR-hd9.placeholder" = "Body weights (KG)";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "8jM-zA-QmR"; */
+"8jM-zA-QmR.text" = "0";
+
+/* Class = "UILabel"; text = "Total workout time"; ObjectID = "9Ib-EG-db3"; */
+"9Ib-EG-db3.text" = "Total workout time";
+
+/* Class = "UITabBarItem"; title = "Planr"; ObjectID = "BYp-hr-l0b"; */
+"BYp-hr-l0b.title" = "Planr";
+
+/* Class = "UILabel"; text = "10.0 / 10.0"; ObjectID = "BwU-1d-FuE"; */
+"BwU-1d-FuE.text" = "10.0 / 10.0";
+
+/* Class = "UILabel"; text = "Repeat Timer"; ObjectID = "CrC-ty-8pf"; */
+"CrC-ty-8pf.text" = "Repeat Timer";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E0K-Aj-Kl1"; */
+"E0K-Aj-Kl1.text" = "Label";
+
+/* Class = "UILabel"; text = "Selete your time"; ObjectID = "FJg-Mz-oEc"; */
+"FJg-Mz-oEc.text" = "Selete your time";
+
+/* Class = "UISegmentedControl"; G9U-c8-ejK.segmentTitles[0] = "Cardio"; ObjectID = "G9U-c8-ejK"; */
+"G9U-c8-ejK.segmentTitles[0]" = "Cardio";
+
+/* Class = "UISegmentedControl"; G9U-c8-ejK.segmentTitles[1] = "Weights"; ObjectID = "G9U-c8-ejK"; */
+"G9U-c8-ejK.segmentTitles[1]" = "Weights";
+
+/* Class = "UISegmentedControl"; G9U-c8-ejK.segmentTitles[2] = "HIIT"; ObjectID = "G9U-c8-ejK"; */
+"G9U-c8-ejK.segmentTitles[2]" = "HIIT";
+
+/* Class = "UIButton"; normalTitle = "GO!"; ObjectID = "GWR-AC-4CY"; */
+"GWR-AC-4CY.normalTitle" = "GO!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HGm-V7-muD"; */
+"HGm-V7-muD.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "KEc-6E-O6s"; */
+"KEc-6E-O6s.normalTitle" = "Reset";
+
+/* Class = "UILabel"; text = "Steps"; ObjectID = "L32-AW-V5Q"; */
+"L32-AW-V5Q.text" = "Steps";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "L4P-fX-rVZ"; */
+"L4P-fX-rVZ.text" = "Subtitle";
+
+/* Class = "UITextField"; placeholder = "Age"; ObjectID = "LBq-Zg-xxa"; */
+"LBq-Zg-xxa.placeholder" = "Age";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LTn-er-JIW"; */
+"LTn-er-JIW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LXH-Lf-49e"; */
+"LXH-Lf-49e.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Nsb-qs-ypB"; */
+"Nsb-qs-ypB.placeholder" = "Name";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "PI3-vx-bNG"; */
+"PI3-vx-bNG.title" = "Profile";
+
+/* Class = "UILabel"; text = "Number of round"; ObjectID = "QCO-y9-CnH"; */
+"QCO-y9-CnH.text" = "Number of round";
+
+/* Class = "UITextField"; placeholder = "Body Fat %"; ObjectID = "QlY-DT-hF5"; */
+"QlY-DT-hF5.placeholder" = "Body Fat %";
+
+/* Class = "UIButton"; normalTitle = "BMR"; ObjectID = "R8f-Qz-Pza"; */
+"R8f-Qz-Pza.normalTitle" = "BMR";
+
+/* Class = "UITabBarItem"; title = "BMI&BMR"; ObjectID = "Rh6-P0-L6B"; */
+"Rh6-P0-L6B.title" = "BMI&BMR";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "RqC-I6-Jqa"; */
+"RqC-I6-Jqa.text" = "Detail";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Rwf-aC-azw"; */
+"Rwf-aC-azw.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Effective Index:"; ObjectID = "SUj-9s-dgp"; */
+"SUj-9s-dgp.text" = "Effective Index:";
+
+/* Class = "UILabel"; text = "XXX"; ObjectID = "TLy-Il-23m"; */
+"TLy-Il-23m.text" = "XXX";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "TTs-MZ-Aby"; */
+"TTs-MZ-Aby.text" = "Today";
+
+/* Class = "UILabel"; text = "Actived Days:"; ObjectID = "TW7-ho-klW"; */
+"TW7-ho-klW.text" = "Actived Days:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "V9t-PW-Ul4"; */
+"V9t-PW-Ul4.text" = "Title";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "WAa-dn-X4D"; */
+"WAa-dn-X4D.text" = "None";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZJe-YU-dJ1"; */
+"ZJe-YU-dJ1.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Timer"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Timer";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ezi-re-koo"; */
+"ezi-re-koo.text" = "Label";
+
+/* Class = "UILabel"; text = "Floor"; ObjectID = "fik-DH-S69"; */
+"fik-DH-S69.text" = "Floor";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "gSI-qW-oeH"; */
+"gSI-qW-oeH.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "hq0-Ch-l7Z"; */
+"hq0-Ch-l7Z.text" = "0";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "l0w-X8-Js4"; */
+"l0w-X8-Js4.text" = "Distance";
+
+/* Class = "UISegmentedControl"; ldv-rS-aQb.segmentTitles[0] = "Cardio"; ObjectID = "ldv-rS-aQb"; */
+"ldv-rS-aQb.segmentTitles[0]" = "Cardio";
+
+/* Class = "UISegmentedControl"; ldv-rS-aQb.segmentTitles[1] = "Weights"; ObjectID = "ldv-rS-aQb"; */
+"ldv-rS-aQb.segmentTitles[1]" = "Weights";
+
+/* Class = "UISegmentedControl"; ldv-rS-aQb.segmentTitles[2] = "HIIT"; ObjectID = "ldv-rS-aQb"; */
+"ldv-rS-aQb.segmentTitles[2]" = "HIIT";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "lhC-fK-nCq"; */
+"lhC-fK-nCq.text" = "0";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "lhu-eK-hrr"; */
+"lhu-eK-hrr.text" = "Title";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "mih-Vh-993"; */
+"mih-Vh-993.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "nMJ-je-SMs"; */
+"nMJ-je-SMs.text" = "Name:";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "os7-em-gHX"; */
+"os7-em-gHX.text" = "Start";
+
+/* Class = "UILabel"; text = "Last time workout:"; ObjectID = "r9J-dx-r1P"; */
+"r9J-dx-r1P.text" = "Last time workout:";
+
+/* Class = "UIButton"; normalTitle = "Set Plan"; ObjectID = "s9P-Je-oHQ"; */
+"s9P-Je-oHQ.normalTitle" = "Set Plan";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "sla-ph-5pK"; */
+"sla-ph-5pK.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tji-dj-0YB"; */
+"tji-dj-0YB.text" = "Label";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "tlX-rO-uHH"; */
+"tlX-rO-uHH.text" = "00:00:00";
+
+/* Class = "UITextField"; placeholder = "Height (CM)"; ObjectID = "u6K-A3-MfQ"; */
+"u6K-A3-MfQ.placeholder" = "Height (CM)";
+
+/* Class = "UITextView"; text = "Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.\n\nYour BMR is the amount of energy your body needs to function. We use about 60% of the calories we consume each day for basic bodily functions such as breathing."; ObjectID = "uC7-op-YSI"; */
+"uC7-op-YSI.text" = "Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.\n\nYour BMR is the amount of energy your body needs to function. We use about 60% of the calories we consume each day for basic bodily functions such as breathing.";
+
+/* Class = "UILabel"; text = "Weight:"; ObjectID = "ubC-mK-vJI"; */
+"ubC-mK-vJI.text" = "Weight:";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "ug7-hL-vnD"; */
+"ug7-hL-vnD.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Around"; ObjectID = "vb3-Ob-MLU"; */
+"vb3-Ob-MLU.text" = "Around";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ytu-NO-vuv"; */
+"ytu-NO-vuv.text" = "0";
